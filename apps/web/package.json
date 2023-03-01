@@ -12,9 +12,6 @@
     "clean": "rm -rf build"
   },
   "dependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-scripts": "5.0.0",
     "ui": "workspace:*",
     "web-vitals": "^2.1.2"
   },
@@ -27,6 +24,7 @@
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
     "@types/testing-library__jest-dom": "^5.14.5",
+    "react-scripts": "5.0.0",
     "tsconfig": "workspace:*",
     "tailwind-config": "workspace:*",
     "eslint-config-custom": "workspace:*",
